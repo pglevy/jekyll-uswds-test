@@ -30,6 +30,7 @@ markdown: kramdown
 theme: uswds-jekyll
 plugins:
   - jekyll-feed
+keep_files: [assets]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
