@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/18F/uswds-jekyll.git
-  revision: 341625c7a2e55e7de95bf8130105d15152e6e39e
+  revision: c35323199028ad508a840f163ef25ae4a706527e
   specs:
     uswds-jekyll (3.0.0)
       jekyll (~> 3.4)
@@ -50,7 +50,7 @@ GEM
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.2)
-    rb-fsevent (0.10.2)
+    rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rouge (3.1.1)
